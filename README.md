@@ -1,2 +1,2 @@
 # JavaLearning
-<code>JavaLearning</code>
+JavaLearning
