@@ -1,8 +1,7 @@
-// Java 프로그래밍 - 변수와 자료형_1
-
 public class Variable {
     public static void main(String[] args) {
 
+//      Java 프로그래밍 - 변수와 자료형_1
 //      1. 변수 사용하기
         System.out.println("== 변수 사용하기 ==");
         int age = 10;

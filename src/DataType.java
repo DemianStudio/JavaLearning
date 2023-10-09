@@ -1,5 +1,3 @@
-// Java 프로그래밍 - 변수와 자료형_2
-
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
@@ -7,6 +5,7 @@ import java.util.HashMap;
 public class DataType {
     public static void main(String[] args) {
 
+//      Java 프로그래밍 - 변수와 자료형_2
 //      1. 자료형 - 숫자
         System.out.println("== 숫자 ==");
 //      1-1. 정수
@@ -57,6 +56,7 @@ public class DataType {
         System.out.println("keyLast = " + keyLast);
         System.out.println((int)keyLast);
 
+//      Java 프로그래밍 - 변수와 자료형_3
 //      4. 자료형 - 문자열
         System.out.println("== 문자열 ==");
         String s1 = "Hello World!";
@@ -129,6 +129,7 @@ public class DataType {
         myArray3[2] = "World";
         System.out.println(myArray3[0] + myArray3[1] + myArray3[2]);
 
+//      Java 프로그래밍 - 변수와 자료형_4
 //      7. 자료형 - 리스트
         System.out.println("== 리스트 ==");
         ArrayList l1 = new ArrayList();
