@@ -1,6 +1,6 @@
 // Java 프로그래밍 - 변수와 자료형_1
 
-public class Varable {
+public class Variable {
     public static void main(String[] args) {
 
 //      1. 변수 사용하기
@@ -10,9 +10,9 @@ public class Varable {
         String country = "Korea";
         System.out.println("country = " + country);
 
-
 //      2. 변수 이름 규칙
         System.out.println("== 변수 이름 규칙 ==");
+
 //      2-1. 문자, 숫자, _(underscore), $ 사용 가능
         int apple = 2000;
         System.out.println("apple = " + apple);
@@ -44,16 +44,14 @@ public class Varable {
 //        int true = 1;
 //        int false = 1;
 
-
 //      참고) 한글 사용 가능
         int 사과 = 1000;
         System.out.println("사과 = " + 사과);
 
-
 //      3. 표기법
 //      3-1. 카멜 표기법 (camelCase)
 //      변수, 함수
-        int myAge = 00;
+        int myAge = 20;
         System.out.println("myAge = " + myAge);
         int oneApplePrice = 10000;
         System.out.println("oneApplePrice = " + oneApplePrice);
@@ -64,7 +62,6 @@ public class Varable {
         System.out.println("MyAge = " + MyAge);
         int OneApplePrice = 10000;
         System.out.println("OneApplePrice = " + OneApplePrice);
-
 
 //      참고) 스네이크 표기법 (snake_case)
         int my_age = 20;
