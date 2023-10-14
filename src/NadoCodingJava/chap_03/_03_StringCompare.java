@@ -1,6 +1,6 @@
 package NadoCodingJava.chap_03;
 
-public class StringCompare {
+public class _03_StringCompare {
     public static void main(String[] args) {
         System.out.println("=== 문자열 비교 ===");
         // 문자열 비교

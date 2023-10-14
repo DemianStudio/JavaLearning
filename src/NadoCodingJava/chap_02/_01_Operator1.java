@@ -1,6 +1,6 @@
 package NadoCodingJava.chap_02;
 
-public class Operator1 {
+public class _01_Operator1 {
     public static void main(String[] args) {
         // 산술 연산자
 

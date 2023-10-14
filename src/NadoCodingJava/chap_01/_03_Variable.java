@@ -1,6 +1,6 @@
 package NadoCodingJava.chap_01;
 
-public class Variable {
+public class _03_Variable {
     public static void main(String[] args) {
         String name = "Demian";
         int hour = 15;

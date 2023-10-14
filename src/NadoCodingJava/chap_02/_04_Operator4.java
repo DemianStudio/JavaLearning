@@ -1,6 +1,6 @@
 package NadoCodingJava.chap_02;
 
-public class Operator4 {
+public class _04_Operator4 {
     public static void main(String[] args) {
         // 논리 연산자
         System.out.println("=== 논리 연산자 ===");

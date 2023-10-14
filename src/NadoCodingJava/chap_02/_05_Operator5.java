@@ -1,6 +1,6 @@
 package NadoCodingJava.chap_02;
 
-public class Operator5 {
+public class _05_Operator5 {
     public static void main(String[] args) {
         // 삼항 연산자(조건 연산자)
         System.out.println("=== 삼항 연산자 ===");

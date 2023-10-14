@@ -1,6 +1,6 @@
 package NadoCodingJava.chap_01;
 
-public class DataDypes {
+public class _02_DataDypes {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("안녕하세요!");
