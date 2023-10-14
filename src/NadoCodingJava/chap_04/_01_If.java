@@ -1,6 +1,6 @@
 package NadoCodingJava.chap_04;
 
-public class _01_if {
+public class _01_If {
     public static void main(String[] args) {
         System.out.println("=== 조건문 if ===");
         // 조건문 if
