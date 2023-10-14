@@ -12,12 +12,14 @@ public class String2 {
         System.out.println(s.substring(s.indexOf("Java"), s.indexOf("and"))); // 시작 위치부터 끝 위치 직전까지
 
         System.out.println();
+
         System.out.println("=== 공백 제거 ===");
         s = "        I love Java.";
         System.out.println("s = " + s);
         System.out.println(s.trim()); // 앞 뒤 공백 제거
 
         System.out.println();
+
         System.out.println("=== 문자열 결합 ===");
         // 문자열 결합
         String s1 = "Java";
